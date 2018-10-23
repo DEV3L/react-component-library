@@ -111,5 +111,4 @@ const withStyles = styled({
   }
 });
 
-const Input = withStyles(_Input);
-export { Input };
+export default withStyles(_Input);

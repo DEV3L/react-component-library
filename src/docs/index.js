@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Button } from '../components/Button';
-import { Input } from '../components/input/input';
+import Input from '../components/input/input';
 const App = () => (
   <div>
     <h1>React Component Library</h1>
