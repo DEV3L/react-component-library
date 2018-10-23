@@ -1408,6 +1408,10 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
+classnames@^2.2.6:
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.2.6.tgz#43935bffdd291f326dad0a205309b38d00f650ce"
+
 cli-cursor@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/cli-cursor/-/cli-cursor-2.1.0.tgz#b35dac376479facc3e94747d41d0d0f5238ffcb5"
@@ -2331,6 +2335,10 @@ fragment-cache@^0.2.1:
   resolved "https://registry.yarnpkg.com/fragment-cache/-/fragment-cache-0.2.1.tgz#4290fad27f13e89be7f33799c6bc5a0abfff0d19"
   dependencies:
     map-cache "^0.2.2"
+
+free-style@^2.5.0:
+  version "2.5.2"
+  resolved "https://registry.yarnpkg.com/free-style/-/free-style-2.5.2.tgz#a5a9220dd3999d451c20a18a8bd5ee4d15ce118d"
 
 fresh@0.5.2:
   version "0.5.2"
@@ -4343,6 +4351,13 @@ react-dom@^16.5.2:
     prop-types "^15.6.2"
     schedule "^0.5.0"
 
+react-free-style@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/react-free-style/-/react-free-style-7.0.2.tgz#4730b7bcdcc700e76b4969dabc6f0110e3b553e7"
+  dependencies:
+    free-style "^2.5.0"
+    style-helper "^2.3.1"
+
 react@^16.5.2:
   version "16.5.2"
   resolved "https://registry.yarnpkg.com/react/-/react-16.5.2.tgz#19f6b444ed139baa45609eee6dc3d318b3895d42"
@@ -4882,6 +4897,10 @@ strip-eof@^1.0.0:
 strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
+
+style-helper@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/style-helper/-/style-helper-2.3.1.tgz#70abce9904aee9965afdad4ddcc1513883b0735c"
 
 stylehacks@^4.0.0:
   version "4.0.1"

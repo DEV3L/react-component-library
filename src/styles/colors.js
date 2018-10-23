@@ -1,0 +1,13 @@
+export const border = '#EBEBEB';
+export const infoBorder = '#CCCCCC';
+export const darkBorder = '#A8A8A8';
+export const focusBorder = '#999999';
+export const invalidBorder = '#CB0B2F';
+export const background = '#F5F5F5';
+export const focusBackground = '#F9F9F9';
+export const contentColor = '#999999';
+export const contentBackground = '#FFF';
+export const lightText = '#7F7F7F';
+export const text = '#4A4A4A';
+export const darkText = '#000';
+export const green = '#58EB46';
